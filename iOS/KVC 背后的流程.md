@@ -1,9 +1,3 @@
----
-title: KVC 背后的执行流程
-date: 2018-03-19 19:12:21
-categories: iOS
-tags: [iOS]
----
 ## 引子
 相当于是[官方文档](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueCoding/SearchImplementation.html#//apple_ref/doc/uid/20000955-CJBBBFFA)的一个翻译，做一个记录。  
 <!-- more -->

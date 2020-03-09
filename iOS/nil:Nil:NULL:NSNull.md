@@ -1,9 +1,4 @@
----
-title: ［翻译］nil/Nil/NULL/NSNull
-categories: 翻译
-tags: [翻译,Objective-C,iOS,开发]
----
-**原文地址：**http://nshipster.com/nil/
+**原文地址：** [NSHipster](http://nshipster.com/nil/)
 
 **原文作者：**[Mattt Thompson](http://nshipster.com/authors/mattt-thompson/)
 
