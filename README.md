@@ -10,6 +10,7 @@
 
 ## 算法
 ### Algs4
+[1129：等值键](https://github.com/hexintao/blog/blob/master/algs4/1129.md)
 [1128：删除排序后列表中的重复元素](https://github.com/hexintao/blog/blob/master/algs4/1128.md)
 
 ## blog
