@@ -10,6 +10,7 @@
 
 ## 算法
 ### Algs4
+* [1133：矩阵库](https://github.com/hexintao/blog/blob/master/algs4/1.1/1133.md)
 * [1130：数组练习](https://github.com/hexintao/blog/blob/master/algs4/1.1/1130.md)
 * [1129：等值键](https://github.com/hexintao/blog/blob/master/algs4/1.1/1129.md)
 * [1128：删除排序后列表中的重复元素](https://github.com/hexintao/blog/blob/master/algs4/1.1/1128.md)
