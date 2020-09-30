@@ -10,6 +10,7 @@
 
 ## 算法
 ### Algs4
+* [1136：乱序检查](https://github.com/hexintao/blog/blob/master/algs4/1.1/1136.md)
 * [1135：模拟掷骰子](https://github.com/hexintao/blog/blob/master/algs4/1.1/1135.md)
 * [1134：过滤](https://github.com/hexintao/blog/blob/master/algs4/1.1/1134.md)
 * [1133：矩阵库](https://github.com/hexintao/blog/blob/master/algs4/1.1/1133.md)
