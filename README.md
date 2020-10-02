@@ -10,6 +10,8 @@
 
 ## 算法
 ### Algs4
+* [1138：二分查找与暴力查找](https://github.com/hexintao/blog/blob/master/algs4/1.1/1138.md)
+* [1137：糟糕的打乱](https://github.com/hexintao/blog/blob/master/algs4/1.1/1137.md)
 * [1136：乱序检查](https://github.com/hexintao/blog/blob/master/algs4/1.1/1136.md)
 * [1135：模拟掷骰子](https://github.com/hexintao/blog/blob/master/algs4/1.1/1135.md)
 * [1134：过滤](https://github.com/hexintao/blog/blob/master/algs4/1.1/1134.md)
