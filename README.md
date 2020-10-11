@@ -9,17 +9,8 @@
 * [(翻译)nil/Nil/NULL/NSNull](https://github.com/hexintao/blog/blob/master/iOS/nil:Nil:NULL:NSNull.md)
 
 ## 算法
-### Algs4
-* [1139：随机匹配](https://github.com/hexintao/blog/blob/master/algs4/1.1/1139.md)
-* [1138：二分查找与暴力查找](https://github.com/hexintao/blog/blob/master/algs4/1.1/1138.md)
-* [1137：糟糕的打乱](https://github.com/hexintao/blog/blob/master/algs4/1.1/1137.md)
-* [1136：乱序检查](https://github.com/hexintao/blog/blob/master/algs4/1.1/1136.md)
-* [1135：模拟掷骰子](https://github.com/hexintao/blog/blob/master/algs4/1.1/1135.md)
-* [1134：过滤](https://github.com/hexintao/blog/blob/master/algs4/1.1/1134.md)
-* [1133：矩阵库](https://github.com/hexintao/blog/blob/master/algs4/1.1/1133.md)
-* [1130：数组练习](https://github.com/hexintao/blog/blob/master/algs4/1.1/1130.md)
-* [1129：等值键](https://github.com/hexintao/blog/blob/master/algs4/1.1/1129.md)
-* [1128：删除排序后列表中的重复元素](https://github.com/hexintao/blog/blob/master/algs4/1.1/1128.md)
+### Algs4 练习题
+#### [1.1](https://github.com/hexintao/blog/blob/master/algs4/1.1/readme.md)
 
 ## blog
 * [GitPages搭建博客](https://github.com/hexintao/blog/blob/master/blog/GitPages搭建博客.md)
