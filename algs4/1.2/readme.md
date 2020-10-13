@@ -42,4 +42,6 @@
 	* 契约式设计，即异常和断言
 		
 
-* [1139：随机匹配](https://github.com/hexintao/blog/blob/master/algs4/1.2/1139.md)
+* [126：判断回文](https://github.com/hexintao/blog/blob/master/algs4/1.2/126.md)
+* [124](https://github.com/hexintao/blog/blob/master/algs4/1.2/124.md)
+* [121：Point2D 用例](https://github.com/hexintao/blog/blob/master/algs4/1.2/121.md)

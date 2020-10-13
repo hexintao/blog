@@ -9,7 +9,7 @@
 * [(翻译)nil/Nil/NULL/NSNull](https://github.com/hexintao/blog/blob/master/iOS/nil:Nil:NULL:NSNull.md)
 
 ## 算法
-### Algs4 练习题
+### Algs4
 #### [1.1 基础编程模型](https://github.com/hexintao/blog/blob/master/algs4/1.1/readme.md)
 #### [1.2 数据抽象](https://github.com/hexintao/blog/blob/master/algs4/1.2/readme.md)
 
