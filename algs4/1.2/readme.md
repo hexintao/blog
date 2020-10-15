@@ -41,6 +41,7 @@
 		* 不可变的数据类型比可变的数据我俩看使用更容易，误用更困难，因为能够改变它们的值的方式少，调试起来也更简单。但不可变性的缺点有：一、需要为每个值创建一个新对象，二、java 中的 final 只能用来保证原始数据类型的实例变量的不可变性，但无法确保实例变量所引用的对象的值不可变  
 	* 契约式设计，即异常和断言
 		
+* [1211：SmartDate](https://github.com/hexintao/blog/blob/master/algs4/1.2/1211.md)
 * [1210：设计 VisualCounter](https://github.com/hexintao/blog/blob/master/algs4/1.2/1210.md)
 * [129：递归结果](https://github.com/hexintao/blog/blob/master/algs4/1.2/127.md)
 * [127：递归结果](https://github.com/hexintao/blog/blob/master/algs4/1.2/127.md)
