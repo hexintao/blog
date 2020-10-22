@@ -10,8 +10,9 @@
 
 ## 算法
 ### Algs4
-#### [1.1 基础编程模型](https://github.com/hexintao/blog/blob/master/algs4/1.1/readme.md)
+#### [1.3 背包、队列和栈](https://github.com/hexintao/blog/blob/master/algs4/1.3/Readme.md)
 #### [1.2 数据抽象](https://github.com/hexintao/blog/blob/master/algs4/1.2/readme.md)
+#### [1.1 基础编程模型](https://github.com/hexintao/blog/blob/master/algs4/1.1/readme.md)
 
 ## blog
 * [GitPages搭建博客](https://github.com/hexintao/blog/blob/master/blog/GitPages搭建博客.md)
