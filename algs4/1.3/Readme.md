@@ -12,7 +12,7 @@ Api 一览：
 	* `boolean isEmpty()`
 	* `int size()`
 3. 栈：LIFO，下压栈，简称栈。元素入栈顺序和出栈顺序相反。
-	* `void push(Item item)`
+	* `void push(Item item)`'
 	* `Item pop()`
 	* `boolean isEmpty()`
 	* `int size()`
