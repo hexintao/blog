@@ -55,6 +55,6 @@ Api 一览：
 4. 描述算法，并实现类中的实例方法，即解决如何操作值的问题；
 5. 分析算法的性能特点。
 
-
-		
-* [1219：字符串解析](https://github.com/hexintao/blog/blob/master/algs4/1.2/1219.md)
+[代码：链表实现的背包、队列和栈](https://github.com/hexintao/blog/blob/master/algs4/1.3/bagQueueAndStack.md)
+	
+* [131：](https://github.com/hexintao/blog/blob/master/algs4/1.2/1219.md)
