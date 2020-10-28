@@ -57,4 +57,5 @@ Api 一览：
 
 [代码：链表实现的背包、队列和栈](https://github.com/hexintao/blog/blob/master/algs4/1.3/bagQueueAndStack.md)
 	
-* [131：](https://github.com/hexintao/blog/blob/master/algs4/1.2/1219.md)
+* [134：Parentheses](https://github.com/hexintao/blog/blob/master/algs4/1.3/134.md)
+* [133：不可能序列](https://github.com/hexintao/blog/blob/master/algs4/1.3/133.md)
