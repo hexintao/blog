@@ -56,6 +56,12 @@ Api 一览：
 5. 分析算法的性能特点。
 
 [代码：链表实现的背包、队列和栈](https://github.com/hexintao/blog/blob/master/algs4/1.3/bagQueueAndStack.md)
+
+
+* [1.3.27：链表中最大的节点](https://github.com/hexintao/blog/blob/master/algs4/1.3/1319.md)
+* [1.3.19：删除链表尾节点](https://github.com/hexintao/blog/blob/master/algs4/1.3/1319.md)
+
+链表练习⬆️
 	
 * [1315：输出倒数第k个字符](https://github.com/hexintao/blog/blob/master/algs4/1.3/1315.md)
 * [1312：栈的 copy](https://github.com/hexintao/blog/blob/master/algs4/1.3/1312.md)
