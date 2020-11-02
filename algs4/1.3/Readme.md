@@ -58,6 +58,7 @@ Api 一览：
 [代码：链表实现的背包、队列和栈](https://github.com/hexintao/blog/blob/master/algs4/1.3/bagQueueAndStack.md)
 
 
+* [1.3.31：DoubleNode 构造双向链表](https://github.com/hexintao/blog/blob/master/algs4/1.3/1331.md)
 * [1.3.30：链表的反转](https://github.com/hexintao/blog/blob/master/algs4/1.3/1330.md)
 * [1.3.27：链表中最大的节点 - 1.3.29：环形链表实现 Queue](https://github.com/hexintao/blog/blob/master/algs4/1.3/1319.md)
 * [1.3.19：删除链表尾节点](https://github.com/hexintao/blog/blob/master/algs4/1.3/1319.md)
