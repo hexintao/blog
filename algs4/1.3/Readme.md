@@ -57,6 +57,9 @@ Api 一览：
 
 [代码：链表实现的背包、队列和栈](https://github.com/hexintao/blog/blob/master/algs4/1.3/bagQueueAndStack.md)
 
+* [1.3.32：Steque](https://github.com/hexintao/blog/blob/master/algs4/1.3/1332.md)
+
+提高题⬆️
 
 * [1.3.31：DoubleNode 构造双向链表](https://github.com/hexintao/blog/blob/master/algs4/1.3/1331.md)
 * [1.3.30：链表的反转](https://github.com/hexintao/blog/blob/master/algs4/1.3/1330.md)
