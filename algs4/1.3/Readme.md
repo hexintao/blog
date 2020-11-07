@@ -57,6 +57,7 @@ Api 一览：
 
 [代码：链表实现的背包、队列和栈](https://github.com/hexintao/blog/blob/master/algs4/1.3/bagQueueAndStack.md)
 
+* [1.3.37：Josephus 问题](https://github.com/hexintao/blog/blob/master/algs4/1.3/1337.md)
 * [1.3.35：随机队列](https://github.com/hexintao/blog/blob/master/algs4/1.3/1335.md)
 * [1.3.33：Deque](https://github.com/hexintao/blog/blob/master/algs4/1.3/1333.md)
 * [1.3.32：Steque](https://github.com/hexintao/blog/blob/master/algs4/1.3/1332.md)
