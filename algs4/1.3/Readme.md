@@ -57,6 +57,7 @@ Api 一览：
 
 [代码：链表实现的背包、队列和栈](https://github.com/hexintao/blog/blob/master/algs4/1.3/bagQueueAndStack.md)
 
+* [1.3.49：栈与队列](https://github.com/hexintao/blog/blob/master/algs4/1.3/1349.md)
 * [1.3.45：栈的可生成性](https://github.com/hexintao/blog/blob/master/algs4/1.3/1345.md)
 * [1.3.44：文本编辑器的缓冲区](https://github.com/hexintao/blog/blob/master/algs4/1.3/1344.md)
 * [1.3.43：文件列表](https://github.com/hexintao/blog/blob/master/algs4/1.3/1343.md)
